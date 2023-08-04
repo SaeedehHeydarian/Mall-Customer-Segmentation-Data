@@ -35,8 +35,7 @@ The customer segmentation analysis has identified [5 cluster ]. Detailed visuali
 
 
 ## Credits
-- [Dataset Source or Credits]("https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python")
-
+- ["https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python"]
 
 ## Contact Information
 For any questions or collaborations, feel free to reach out to [heydariansaeede0@gmail.com].
